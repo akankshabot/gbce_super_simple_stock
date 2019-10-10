@@ -18,7 +18,7 @@ Available options in the menu:
 
 3 - Add trade (Record a sell or buy a selected trade)
 
-4 - Calculate volume weighted stock for the past 5 minutes (Calculate the stock shares transactions from the last 15 minutes)
+4 - Calculate volume weighted stock for the past 5 minutes (Calculate the stock shares transactions from the last 5 minutes)
 
 5 - Calculate GBCE of all shares
 
