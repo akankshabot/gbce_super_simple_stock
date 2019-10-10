@@ -1,13 +1,13 @@
 # gbce_super_simple_stock
 Super Simple Stock Market -JPMC Assignment
 
-Requisites:
+Pre-requisites:
 Python 3 or above
 
 How to run:
 Run python GBCEStock.py
 
-Demo stock symbols:
+Demo stock symbols(Case Sensitive):
 TEA - POP - ALE - GIN - JOE
 
 Available options in the menu:
